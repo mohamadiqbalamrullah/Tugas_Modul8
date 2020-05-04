@@ -1,0 +1,10 @@
+C:\Users\9dmiq\source\repos\tugas8\tugas8\bin\Debug\tugas8.exe.config
+C:\Users\9dmiq\source\repos\tugas8\tugas8\bin\Debug\tugas8.exe
+C:\Users\9dmiq\source\repos\tugas8\tugas8\bin\Debug\tugas8.pdb
+C:\Users\9dmiq\source\repos\tugas8\tugas8\obj\Debug\tugas8.csprojAssemblyReference.cache
+C:\Users\9dmiq\source\repos\tugas8\tugas8\obj\Debug\tugas8.Form1.resources
+C:\Users\9dmiq\source\repos\tugas8\tugas8\obj\Debug\tugas8.Properties.Resources.resources
+C:\Users\9dmiq\source\repos\tugas8\tugas8\obj\Debug\tugas8.csproj.GenerateResource.cache
+C:\Users\9dmiq\source\repos\tugas8\tugas8\obj\Debug\tugas8.csproj.CoreCompileInputs.cache
+C:\Users\9dmiq\source\repos\tugas8\tugas8\obj\Debug\tugas8.exe
+C:\Users\9dmiq\source\repos\tugas8\tugas8\obj\Debug\tugas8.pdb
